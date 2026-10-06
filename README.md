@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/shri-radha.png" alt="श्री राधा" width="200">
+</p>
+
 # Redis Caching Patterns — Cache-Aside with PostgreSQL
 
 Cache-aside pattern with Redis in front of PostgreSQL: a Flask API showing cache miss → load from Postgres → populate Redis → cache hit, plus a bulk-insert loader.
